@@ -1,0 +1,49 @@
+body {
+  background-color: #a3d5d3;
+  font-family: Poppins;
+  padding-right: 150px;
+  padding-bottom: 30px;
+  padding-left: 150px;
+}
+
+.wholeForm {
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+}
+
+.row {
+  display: flex; 
+}
+
+.left {
+  flex: 50%;
+  text-align: right;
+  padding: 10px;
+}
+
+.right {
+  flex: 50%;
+  padding: 10px;
+}
+
+h1 {
+  text-align:center;
+}
+
+p {
+  background-cololr: white;
+  text-align:center;
+}
+
+button {
+  align: center; 
+  font-size: 18px;
+  padding: 12px 28px;
+  border-radius: 5px;
+  background-color: SkyBlue ;
+  color: white;
+  display: block;
+  margin: 0 auto; 
+  border: none;
+}
